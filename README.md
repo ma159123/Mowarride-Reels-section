@@ -2,6 +2,13 @@
 
 Welcome to the Mowarride Reels section! This feature within our application allows users to browse and interact with various products presented in a dynamic reel format.
 
+# Screenshots
+
+![5](https://github.com/ma159123/Mowarride-Reels-section/assets/87338457/a7a0cfc4-1d2c-4a1a-9ab1-ab648c7728bd)
+![6](https://github.com/ma159123/Mowarride-Reels-section/assets/87338457/dd1f9675-dc35-4387-9a78-b776fe09cbe1)
+![7](https://github.com/ma159123/Mowarride-Reels-section/assets/87338457/500110bf-efb2-45c5-89f4-1ab29959a598)
+
+
 ## Key Elements and Functionalities
 
 ### Product Details
@@ -38,9 +45,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to explore and learn more about the Mowarride Reels section!
-
-# Screenshots
-
-![5](https://github.com/ma159123/Mowarride-Reels-section/assets/87338457/a7a0cfc4-1d2c-4a1a-9ab1-ab648c7728bd)
-![6](https://github.com/ma159123/Mowarride-Reels-section/assets/87338457/dd1f9675-dc35-4387-9a78-b776fe09cbe1)
-![7](https://github.com/ma159123/Mowarride-Reels-section/assets/87338457/500110bf-efb2-45c5-89f4-1ab29959a598)
