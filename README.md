@@ -11,9 +11,9 @@ Welcome to the Mowarride Reels section! This feature within our application allo
 
 # Technologies:
 
--Flutter
--Firebase
--RESTful API
+- **Flutter**
+- **Firebase**
+- **RESTful API**
 
 
 ## Key Elements and Functionalities
