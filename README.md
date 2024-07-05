@@ -9,6 +9,13 @@ Welcome to the Mowarride Reels section! This feature within our application allo
 ![7](https://github.com/ma159123/Mowarride-Reels-section/assets/87338457/500110bf-efb2-45c5-89f4-1ab29959a598)
 
 
+# Technologies:
+
+Flutter
+Firebase
+RESTful API
+
+
 ## Key Elements and Functionalities
 
 ### Product Details
